@@ -1,0 +1,11 @@
+{
+  "name": "sakhicare",
+  "version": "1.0.0",
+  "description": "SakhiCare - Stigma-free menstrual health companion for Indian adolescents",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "start": "cd server && npm start"
+  }
+}

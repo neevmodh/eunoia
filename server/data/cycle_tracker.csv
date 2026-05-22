@@ -1,0 +1,4 @@
+id,userId,lastPeriodDate,cycleLength,periodDuration,waterIntake,sleepHours,mood,symptoms,notes,timestamp
+2df59feb-ce9e-4a69-8c59-9ba729f2ef36,test123,2026-05-01,28,5,8,7,😊 Happy,Cramps;Bloating,,2026-05-17T12:00:32.959Z
+3bbcb2e0-2e81-4fc5-aeb8-e31753706988,217da5a4-92a2-43c0-bfb1-7ce1ebbd9825,2026-05-06,28,5,7,8,😔 Sad,Light flow,,2026-05-17T16:38:50.206Z
+f1a78fe4-b8c6-4876-9e24-608bd4acbf09,2d3ca29d-fbf4-40ab-917a-2c3fd84e320e,2026-04-20,21,5,2,5,😰 Anxious,Cramps;Bloating;Headache;Fatigue;Mood swings;Nausea;Heavy flow,,2026-05-21T07:14:26.880Z

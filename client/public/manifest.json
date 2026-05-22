@@ -1,0 +1,16 @@
+{
+  "name": "EUNOIA",
+  "short_name": "EUNOIA",
+  "description": "EUNOIA — an emotionally-intelligent wellness garden",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf2f8",
+  "theme_color": "#ff5b95",
+  "icons": [
+    {
+      "src": "/assets/image.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
