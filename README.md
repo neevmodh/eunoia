@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌸 Eunoia v2.0 — AI-Powered Adolescent Wellness Platform
 
 > ⚠️ **Disclaimer:** This platform provides educational support only and is not a substitute for professional medical advice.
